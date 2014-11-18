@@ -8,6 +8,7 @@ import (
 	"net/http"
 )
 
+// Fill out these constants with values specific to your nation
 const (
 	NationName  = "NATION_NAME"
 	AccessToken = "ACCESS_TOKEN"
